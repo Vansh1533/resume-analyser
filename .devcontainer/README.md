@@ -17,7 +17,7 @@
 - **AI Model**: Google Gemini  
 - **Backend**: Python  
 - **PDF Parsing**: PyMuPDF  
-- **Deployment**: Streamlit Cloud  
+- **Deployment**: Netlify  
 
 ## 🚀 Installation & Setup  
 1. Clone the repo  
