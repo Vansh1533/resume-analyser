@@ -1,4 +1,4 @@
-netlify
+streamlit
 google-generativeai
 pymupdf
 docx
