@@ -1,0 +1,5 @@
+netlify
+google-generativeai
+pymupdf
+docx
+dotenv
